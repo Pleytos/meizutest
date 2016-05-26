@@ -1,3 +1,3 @@
 # meizutest
 Meizu 5 Pro Cyanogenmod atempt
-test 1
+This is an atempt by an unskilled user to create a Cyanogenmod custom rom for the Meizu 5 Pro.
